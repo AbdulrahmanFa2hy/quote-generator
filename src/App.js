@@ -66,7 +66,7 @@ const App = () => {
             <WhatsappIcon size={37} round />
           </WhatsappShareButton>
         </div>
-        <h2>Share Quote</h2>
+        <h2>Share Quote </h2>
       </div>
     </>
   );
